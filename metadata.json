@@ -1,0 +1,7 @@
+{
+  "name": "Lumina Interior AI",
+  "description": "An interactive room makeover app that uses AI to reimagine your space in various architectural styles, providing side-by-side comparisons and smart design consultations.",
+  "requestFramePermissions": [
+    "camera"
+  ]
+}
